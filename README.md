@@ -1,27 +1,32 @@
 # SQL Mission 2 – Database Querying
 
 ## Project Overview
+
 This project documents SQL queries for database querying and analysis. It covers basic queries, filtering, sorting, aggregate functions, grouping, conditional statements, and joins.
 
 ## Topics Covered
+
 - SELECT and FROM
 - WHERE conditions
 - ORDER BY
-- COUNT, SUM, AVG, MAX, and MIN
-- GROUP BY and HAVING
+- COUNT
+- GROUP BY
+- AVG, MAX, and MIN
 - CASE statements
-- INNER JOIN and LEFT JOIN
-- Subqueries
+- LEFT JOIN
 
 ## Project File
+
 `SQL Mission 2 - Database Querying.xlsx`
 
-The spreadsheet contains 10 documented SQL queries, their purposes, results/status fields, and query descriptions.
+The spreadsheet contains 10 documented SQL queries, their purposes, sample results, and status fields. It also includes Employees and Departments sample data.
 
 ## Tools Used
-- Google Sheets
-- SQLBolt for SQL practice
+
+- Google Sheets for query documentation
 - GitHub for project documentation and file storage
+- SQL for database querying
 
 ## Note
-The spreadsheet documents the queries. Results should be marked complete only after the queries have been executed and verified.
+
+This project demonstrates SQL query writing and documentation. The listed results are sample results and should be verified by executing the queries in a SQL environment.
